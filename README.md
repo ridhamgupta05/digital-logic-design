@@ -41,8 +41,6 @@ All designs in this repository are developed, simulated, and verified using:
 
 * Xilinx Vivado Design Suite 2016.4
 
-A beginner-friendly guide for downloading, installing, and setting up Vivado will also be provided.
-
 ## Who Is This Repository For?
 
 * ECE Students
